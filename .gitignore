@@ -1,1 +1,5 @@
 *.DS_Store
+
+# 個人の設定。チームに配らない
+CLAUDE.local.md
+.claude/settings.local.json
